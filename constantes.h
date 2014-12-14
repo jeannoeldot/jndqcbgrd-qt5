@@ -1,7 +1,7 @@
 #ifndef CONSTANTES_H
 #define CONSTANTES_H
 
-const QString VERSION_PROG = "0.1.6";
+const QString VERSION_PROG = "0.1.6.10";
 const QString NOM_PROG = "Gestion Revenu Dépenses";
 const QString NOM_PROG_AFF = "G.R.D.";
 const QString ORGANISATION = "JND-Software";
