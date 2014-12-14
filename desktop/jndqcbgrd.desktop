@@ -1,0 +1,12 @@
+[Desktop Entry]
+Terminal=false
+Name=JND-G.R.D.
+Name[fr]=JND-G.R.D.
+GenericName=Gestion Revenu Dépenses
+GenericName[fr]=Gestion Revenu Dépenses
+Comment=Gestion Revenu Dépenses
+Comment[fr]=Gestion Revenu Dépenses
+Exec=jndqcbgrd
+Icon=jndqcbgrd
+Type=Application
+Categories=Qt;Office;

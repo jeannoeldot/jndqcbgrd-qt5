@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ModificationNomDlg</class>
+ <widget class="QDialog" name="ModificationNomDlg">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>720</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>720</width>
+    <height>400</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>720</width>
+    <height>400</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>G.R.D. - Modification Nom Catégorie</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>25</x>
+     <y>15</y>
+     <width>681</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Anciens Noms              Nouveaux Noms                         Anciens Noms               Nouveaux Noms</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom01">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>MMMMMMMMMMMMMM</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom02">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>40</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom03">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom04">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>70</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom05">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom06">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>100</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom07">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom08">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>130</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom09">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>160</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom10">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>160</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom11">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>190</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom12">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>190</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom13">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>220</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom14">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>220</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom01">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>40</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom02">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>40</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom03">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>70</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom04">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>70</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom05">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>100</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom06">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>100</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom07">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>130</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom08">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>130</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom09">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>160</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom10">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>160</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom11">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>190</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom12">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>190</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom13">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>220</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom14">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>220</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>340</y>
+     <width>720</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="annulerButton">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>360</y>
+     <width>111</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Annuler</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="accepterButton">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>360</y>
+     <width>111</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Accepter</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom20">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>310</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom19">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>310</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom20">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>310</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom19">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>310</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom16">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>250</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom15">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>250</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom16">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>250</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom15">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>250</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom18">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>280</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom17">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>280</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditNom17">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>280</y>
+     <width>150</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>14</number>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNom18">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>280</y>
+     <width>145</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>lineEditNom01</tabstop>
+  <tabstop>lineEditNom02</tabstop>
+  <tabstop>lineEditNom03</tabstop>
+  <tabstop>lineEditNom04</tabstop>
+  <tabstop>lineEditNom05</tabstop>
+  <tabstop>lineEditNom06</tabstop>
+  <tabstop>lineEditNom07</tabstop>
+  <tabstop>lineEditNom08</tabstop>
+  <tabstop>lineEditNom09</tabstop>
+  <tabstop>lineEditNom10</tabstop>
+  <tabstop>lineEditNom11</tabstop>
+  <tabstop>lineEditNom12</tabstop>
+  <tabstop>lineEditNom13</tabstop>
+  <tabstop>lineEditNom14</tabstop>
+  <tabstop>lineEditNom15</tabstop>
+  <tabstop>lineEditNom16</tabstop>
+  <tabstop>lineEditNom17</tabstop>
+  <tabstop>lineEditNom18</tabstop>
+  <tabstop>lineEditNom19</tabstop>
+  <tabstop>annulerButton</tabstop>
+  <tabstop>accepterButton</tabstop>
+  <tabstop>lineEditNom20</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>accepterButton</sender>
+   <signal>clicked()</signal>
+   <receiver>ModificationNomDlg</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>385</x>
+     <y>292</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>295</x>
+     <y>159</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>annulerButton</sender>
+   <signal>clicked()</signal>
+   <receiver>ModificationNomDlg</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>514</x>
+     <y>292</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>295</x>
+     <y>159</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

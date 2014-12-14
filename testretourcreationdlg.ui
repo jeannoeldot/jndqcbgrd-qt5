@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TestRetourCreationDlg</class>
+ <widget class="QDialog" name="TestRetourCreationDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>691</width>
+    <height>763</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Affichage compte après Modifs</string>
+  </property>
+  <widget class="QLabel" name="labelNomCat01">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>45</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat01">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>45</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat02">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>45</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat02">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>45</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat04">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>70</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat03">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>70</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat03">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>70</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat04">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>70</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat08">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>120</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat08">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>120</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat06">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>95</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat05">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>95</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat05">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>95</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat06">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>95</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat07">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>120</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat07">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>120</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat14">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>195</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat11">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>170</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat09">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>145</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantSolde">
+   <property name="geometry">
+    <rect>
+     <x>345</x>
+     <y>252</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <italic>true</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat11">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>170</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat12">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>170</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat14">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>195</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat09">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>145</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat12">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>170</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat10">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>145</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat10">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>145</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomSolde">
+   <property name="geometry">
+    <rect>
+     <x>195</x>
+     <y>252</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <italic>true</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat13">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>195</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat13">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>195</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>20</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>MONTANTS</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>20</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>CATÉGORIES</string>
+   </property>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>275</y>
+     <width>691</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>285</x>
+     <y>720</y>
+     <width>116</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>FERMER</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>20</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>CATÉGORIES</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>525</x>
+     <y>20</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>MONTANTS</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>320</y>
+     <width>666</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>300</y>
+     <width>656</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>12345678901234567890123456789012345678901234567890123456789012345678901234567890</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat16">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>220</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat15">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>220</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelNomCat16">
+   <property name="geometry">
+    <rect>
+     <x>365</x>
+     <y>220</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMontantCat15">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>220</y>
+     <width>136</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12345678901234</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>TestRetourCreationDlg</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>201</x>
+     <y>560</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>209</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
