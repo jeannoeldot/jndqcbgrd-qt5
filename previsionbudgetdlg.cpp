@@ -59,7 +59,8 @@ PrevisionBudgetDlg::PrevisionBudgetDlg(const CCompte &compte, const QString &dat
     labelNom20->setText(m_compteApres.nomCategorie20());
     labelNomSolde->setText(m_compteApres.nomSolde());
 
-    m_strMontantSolde = m_compteApres.montantSolde();
+//    m_strMontantSolde = m_compteApres.montantSolde();
+    m_strMontantSolde = m_compteAvant.montantSolde();
     m_dMontantSolde = m_strMontantSolde.toDouble();
 
     afficherMontantSolde();
@@ -141,7 +142,7 @@ void PrevisionBudgetDlg::accept()
     m_strChaineImprimable += formaterMontant(lineEditDepense20->text()) + ESPACES3;
     m_strChaineImprimable += formaterMontant(m_compteApres.montantCategorie20()) + FINLIGNE;
     m_strChaineImprimable += FINLIGNE;
-    m_strChaineImprimable += m_compteApres.nomSolde() + " ";
+    m_strChaineImprimable += ESPACES9 + ESPACES5 + m_compteApres.nomSolde() + ESPACE1;
     m_strChaineImprimable += formaterMontant(m_compteApres.montantSolde()) + FINLIGNE;
 
     QDialog::accept();
@@ -733,6 +734,9 @@ void PrevisionBudgetDlg::on_lineEditDepense19_textChanged()
 
 void PrevisionBudgetDlg::calculerMontantSolde()
 {
+    m_strMontantSolde = m_compteAvant.montantSolde();
+    m_dMontantSolde = m_strMontantSolde.toDouble();
+
     QString str = "";
     bool ok;
     double d;
