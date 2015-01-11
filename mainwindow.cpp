@@ -65,8 +65,7 @@ MainWindow::MainWindow(QWidget *parent) :
 #endif
 ///
 
-//    QSize size = QSize(676, 442);
-    QSize size = QSize(691, 660);
+    QSize size = QSize(752, 660);
     setMinimumSize(size);
     setMaximumSize(size);
     resize(size);

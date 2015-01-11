@@ -113,7 +113,7 @@ void EntreesMouvementsDlg::accept()
 
 void EntreesMouvementsDlg::on_buttonCategorie01_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie01(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie01(), "01", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -147,7 +147,7 @@ void EntreesMouvementsDlg::on_buttonCategorie01_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie02_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie02(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie02(), "02", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -181,7 +181,7 @@ void EntreesMouvementsDlg::on_buttonCategorie02_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie03_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie03(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie03(), "03", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -215,7 +215,7 @@ void EntreesMouvementsDlg::on_buttonCategorie03_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie04_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie04(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie04(), "04", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -249,7 +249,7 @@ void EntreesMouvementsDlg::on_buttonCategorie04_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie05_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie05(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie05(), "05", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -283,7 +283,7 @@ void EntreesMouvementsDlg::on_buttonCategorie05_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie06_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie06(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie06(), "06", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -317,7 +317,7 @@ void EntreesMouvementsDlg::on_buttonCategorie06_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie07_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie07(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie07(), "07", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -351,7 +351,7 @@ void EntreesMouvementsDlg::on_buttonCategorie07_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie08_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie08(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie08(), "08", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -385,7 +385,7 @@ void EntreesMouvementsDlg::on_buttonCategorie08_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie09_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie09(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie09(), "09", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -419,7 +419,7 @@ void EntreesMouvementsDlg::on_buttonCategorie09_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie10_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie10(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie10(), "10", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -453,7 +453,7 @@ void EntreesMouvementsDlg::on_buttonCategorie10_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie11_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie11(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie11(), "11", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -487,7 +487,7 @@ void EntreesMouvementsDlg::on_buttonCategorie11_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie12_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie12(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie12(), "12", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -521,7 +521,7 @@ void EntreesMouvementsDlg::on_buttonCategorie12_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie13_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie13(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie13(), "13", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -555,7 +555,7 @@ void EntreesMouvementsDlg::on_buttonCategorie13_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie14_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie14(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie14(), "14", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -589,7 +589,7 @@ void EntreesMouvementsDlg::on_buttonCategorie14_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie15_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie15(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie15(), "15", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -623,7 +623,7 @@ void EntreesMouvementsDlg::on_buttonCategorie15_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie16_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie16(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie16(), "16", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -657,7 +657,7 @@ void EntreesMouvementsDlg::on_buttonCategorie16_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie17_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie17(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie17(), "17", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -691,7 +691,7 @@ void EntreesMouvementsDlg::on_buttonCategorie17_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie18_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie18(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie18(), "18", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -725,7 +725,7 @@ void EntreesMouvementsDlg::on_buttonCategorie18_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie19_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie19(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie19(), "19", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);
@@ -759,7 +759,7 @@ void EntreesMouvementsDlg::on_buttonCategorie19_clicked()
 
 void EntreesMouvementsDlg::on_buttonCategorie20_clicked()
 {
-    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie20(), this);
+    EntreeUnMouvementDlg dialog(m_compteAvant.nomCategorie20(), "20", this);
     if (true == m_fposDlgConnu)
     {
         dialog.move(m_posDlg);

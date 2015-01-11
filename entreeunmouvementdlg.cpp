@@ -1,12 +1,13 @@
 #include "entreeunmouvementdlg.h"
 #include "constantes.h"
 
-EntreeUnMouvementDlg::EntreeUnMouvementDlg(const QString &nomcategorie, QWidget *parent) :
+EntreeUnMouvementDlg::EntreeUnMouvementDlg(const QString &nomcategorie, const QString &numerocategorie, QWidget *parent) :
     QDialog(parent)
 {
     setupUi(this);
 
     labelNomCategorie->setText(nomcategorie);
+    labelNumeroCategorie->setText(numerocategorie);
 
     QRegExp regExpDate("[0-9]{2,2}[/][0-9]{2,2}[/][0-9]{2,2}");
     lineEditDate->setValidator(new QRegExpValidator(regExpDate, this));
