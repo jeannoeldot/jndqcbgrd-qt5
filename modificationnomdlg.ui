@@ -34,7 +34,7 @@
      <x>0</x>
      <y>340</y>
      <width>841</width>
-     <height>16</height>
+     <height>20</height>
     </rect>
    </property>
    <property name="orientation">
@@ -86,7 +86,7 @@
     </font>
    </property>
    <property name="title">
-    <string>    NC    Anciens Noms                    Nouveaux Noms                         NC    Anciens Noms                    Nouveaux Noms</string>
+    <string/>
    </property>
    <widget class="QLineEdit" name="lineEditNom20">
     <property name="enabled">
@@ -1376,6 +1376,19 @@
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>15</x>
+      <y>5</y>
+      <width>751</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>NC    Anciens Noms                    Nouveaux Noms                         NC    Anciens Noms                    Nouveaux Noms</string>
     </property>
    </widget>
   </widget>
