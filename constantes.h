@@ -1,11 +1,11 @@
 #ifndef CONSTANTES_H
 #define CONSTANTES_H
 
-const QString VERSION_PROG = "0.1.8";
+const QString VERSION_PROG = "0.1.9";
 const QString NOM_PROG = "Gestion Revenu Dépenses";
 const QString NOM_PROG_AFF = "G.R.D.";
 const QString ORGANISATION = "JND-Software";
-const QString COPYRIGHT = "2014-2015 JND-Software Inc";
+const QString COPYRIGHT = "2014-2016 JND-Software Inc";
 
 const QString SEPARATEUR = "@";
 const QString SIGNE_PLUS = "+";

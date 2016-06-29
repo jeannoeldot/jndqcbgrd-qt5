@@ -1388,7 +1388,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>NC    Anciens Noms                    Nouveaux Noms                         NC    Anciens Noms                    Nouveaux Noms</string>
+     <string>NC      Anciens Noms                         Nouveaux Noms                                    NC     Anciens Noms                          Nouveaux Noms</string>
     </property>
    </widget>
   </widget>
