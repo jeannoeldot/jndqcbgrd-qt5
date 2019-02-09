@@ -1,3 +1,5 @@
+//#include <QtGui/QRegExpValidator>
+#include <QRegExpValidator>
 #include "entreeunmouvementdlg.h"
 #include "constantes.h"
 

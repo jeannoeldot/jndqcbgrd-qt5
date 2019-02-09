@@ -1,4 +1,6 @@
 #include <QDebug>
+//#include <QtGui/QRegExpValidator>
+#include <QRegExpValidator>
 #include "creationcomptedlg.h"
 #include "constantes.h"
 
@@ -11,8 +13,10 @@ CreationCompteDlg::CreationCompteDlg(QWidget *parent) :
     m_dMontantSolde = 0.00;
 
     QRegExp regExp("[-|+][0-9]{1,5}[.][0-9]{2,2}");
+//    QValidator *validator = new QRegExpValidator(regExp, this);
 
     lineEditMontant01->setValidator(new QRegExpValidator(regExp, this));
+//    lineEditMontant01->setValidator(validator);
     lineEditMontant02->setValidator(new QRegExpValidator(regExp, this));
     lineEditMontant03->setValidator(new QRegExpValidator(regExp, this));
     lineEditMontant04->setValidator(new QRegExpValidator(regExp, this));

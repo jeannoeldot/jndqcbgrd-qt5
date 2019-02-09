@@ -1,4 +1,6 @@
 #include <QDebug>
+//#include <QtGui/QRegExpValidator>
+#include <QRegExpValidator>
 #include "previsionbudgetdlg.h"
 
 #include "constantes.h"
