@@ -3,7 +3,7 @@
 
 #include <QString>
 
-const QString VERSION_PROG = "0.2.0";
+const QString VERSION_PROG = "0.2.1";
 const QString NOM_PROG = "Gestion Revenu Dépenses";
 const QString NOM_PROG_AFF = "G.R.D.";
 const QString ORGANISATION = "JND-Software";

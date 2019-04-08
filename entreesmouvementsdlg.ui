@@ -24,6 +24,7 @@
   </property>
   <property name="font">
    <font>
+    <family>Linux Libertine Mono</family>
     <pointsize>10</pointsize>
    </font>
   </property>
@@ -38,6 +39,14 @@
      <width>281</width>
      <height>16</height>
     </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
    </property>
    <property name="text">
     <string>Date du jour</string>
@@ -112,6 +121,8 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -148,12 +159,14 @@
      <rect>
       <x>40</x>
       <y>60</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -173,12 +186,14 @@
      <rect>
       <x>40</x>
       <y>270</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -196,10 +211,10 @@
    <widget class="QLabel" name="labelMontantCategorie01">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>259</x>
       <y>40</y>
-      <width>90</width>
-      <height>13</height>
+      <width>91</width>
+      <height>20</height>
      </rect>
     </property>
     <property name="font">
@@ -220,7 +235,7 @@
    <widget class="QLabel" name="labelMontantCategorie17">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>280</y>
       <width>90</width>
       <height>13</height>
@@ -244,7 +259,7 @@
    <widget class="QLabel" name="labelMontantCategorie15">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>250</y>
       <width>90</width>
       <height>13</height>
@@ -268,14 +283,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie14">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>210</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -295,12 +312,14 @@
      <rect>
       <x>40</x>
       <y>180</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -318,14 +337,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie02">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>30</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -343,7 +364,7 @@
    <widget class="QLabel" name="labelMontantCategorie13">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>220</y>
       <width>90</width>
       <height>13</height>
@@ -369,12 +390,14 @@
      <rect>
       <x>40</x>
       <y>300</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -392,14 +415,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie08">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>120</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -419,12 +444,14 @@
      <rect>
       <x>40</x>
       <y>120</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -444,12 +471,14 @@
      <rect>
       <x>40</x>
       <y>150</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -467,14 +496,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie16">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>240</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -492,14 +523,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie20">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>300</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -541,14 +574,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie18">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>270</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -566,14 +601,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie10">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>150</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -615,7 +652,7 @@
    <widget class="QLabel" name="labelMontantCategorie11">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>190</y>
       <width>90</width>
       <height>13</height>
@@ -663,14 +700,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie06">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>90</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -688,14 +727,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie04">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>60</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -737,7 +778,7 @@
    <widget class="QLabel" name="labelMontantCategorie07">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>130</y>
       <width>90</width>
       <height>13</height>
@@ -763,12 +804,14 @@
      <rect>
       <x>40</x>
       <y>30</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -812,12 +855,14 @@
      <rect>
       <x>40</x>
       <y>210</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -835,7 +880,7 @@
    <widget class="QLabel" name="labelMontantCategorie09">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>160</y>
       <width>90</width>
       <height>13</height>
@@ -859,7 +904,7 @@
    <widget class="QLabel" name="labelMontantCategorie19">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>310</y>
       <width>90</width>
       <height>13</height>
@@ -883,7 +928,7 @@
    <widget class="QLabel" name="labelMontantCategorie03">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>70</y>
       <width>90</width>
       <height>13</height>
@@ -981,12 +1026,14 @@
      <rect>
       <x>40</x>
       <y>90</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1006,12 +1053,14 @@
      <rect>
       <x>40</x>
       <y>240</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1053,7 +1102,7 @@
    <widget class="QLabel" name="labelMontantCategorie05">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>260</x>
       <y>100</y>
       <width>90</width>
       <height>13</height>
@@ -1077,14 +1126,16 @@
    <widget class="QCommandLinkButton" name="buttonCategorie12">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>430</x>
       <y>180</y>
-      <width>175</width>
+      <width>221</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1110,6 +1161,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1132,6 +1185,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1154,6 +1209,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1176,6 +1233,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1198,6 +1257,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1220,6 +1281,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1242,6 +1305,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1264,6 +1329,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1286,6 +1353,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1308,6 +1377,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1322,7 +1393,7 @@
    <widget class="QLabel" name="label_12">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>310</y>
       <width>30</width>
       <height>16</height>
@@ -1330,6 +1401,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1344,7 +1417,7 @@
    <widget class="QLabel" name="label_13">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>70</y>
       <width>30</width>
       <height>16</height>
@@ -1352,6 +1425,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1366,7 +1441,7 @@
    <widget class="QLabel" name="label_14">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>160</y>
       <width>30</width>
       <height>16</height>
@@ -1374,6 +1449,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1388,7 +1465,7 @@
    <widget class="QLabel" name="label_15">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>250</y>
       <width>30</width>
       <height>16</height>
@@ -1396,6 +1473,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1410,7 +1489,7 @@
    <widget class="QLabel" name="label_16">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>100</y>
       <width>30</width>
       <height>16</height>
@@ -1418,6 +1497,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1432,7 +1513,7 @@
    <widget class="QLabel" name="label_17">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>190</y>
       <width>30</width>
       <height>16</height>
@@ -1440,6 +1521,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1454,7 +1537,7 @@
    <widget class="QLabel" name="label_18">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>40</y>
       <width>30</width>
       <height>16</height>
@@ -1462,6 +1545,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1476,7 +1561,7 @@
    <widget class="QLabel" name="label_19">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>280</y>
       <width>30</width>
       <height>16</height>
@@ -1484,6 +1569,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1498,7 +1585,7 @@
    <widget class="QLabel" name="label_20">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>130</y>
       <width>30</width>
       <height>16</height>
@@ -1506,6 +1593,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1520,7 +1609,7 @@
    <widget class="QLabel" name="label_21">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>400</x>
       <y>220</y>
       <width>30</width>
       <height>16</height>
@@ -1528,6 +1617,8 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1551,6 +1642,8 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -1594,7 +1687,7 @@
     <property name="font">
      <font>
       <family>Linux Libertine Mono</family>
-      <pointsize>11</pointsize>
+      <pointsize>10</pointsize>
       <weight>75</weight>
       <bold>true</bold>
      </font>
@@ -1615,6 +1708,8 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
+     <pointsize>10</pointsize>
      <weight>75</weight>
      <bold>true</bold>
     </font>

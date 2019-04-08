@@ -6,21 +6,26 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>485</width>
+    <width>510</width>
     <height>246</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
-    <width>485</width>
+    <width>510</width>
     <height>246</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>485</width>
+    <width>510</width>
     <height>246</height>
    </size>
+  </property>
+  <property name="font">
+   <font>
+    <family>Linux Libertine Mono</family>
+   </font>
   </property>
   <property name="windowTitle">
    <string>G.R.D. - Entrée d'un mouvement</string>
@@ -28,7 +33,7 @@
   <widget class="QLabel" name="labelNomCategorie">
    <property name="geometry">
     <rect>
-     <x>150</x>
+     <x>190</x>
      <y>15</y>
      <width>181</width>
      <height>16</height>
@@ -36,6 +41,7 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -62,7 +68,7 @@
     <rect>
      <x>10</x>
      <y>65</y>
-     <width>85</width>
+     <width>111</width>
      <height>16</height>
     </rect>
    </property>
@@ -78,7 +84,7 @@
     <rect>
      <x>10</x>
      <y>95</y>
-     <width>85</width>
+     <width>111</width>
      <height>16</height>
     </rect>
    </property>
@@ -94,7 +100,7 @@
     <rect>
      <x>10</x>
      <y>125</y>
-     <width>85</width>
+     <width>111</width>
      <height>16</height>
     </rect>
    </property>
@@ -110,7 +116,7 @@
     <rect>
      <x>10</x>
      <y>155</y>
-     <width>85</width>
+     <width>111</width>
      <height>16</height>
     </rect>
    </property>
@@ -124,7 +130,7 @@
   <widget class="QLineEdit" name="lineEditDate">
    <property name="geometry">
     <rect>
-     <x>100</x>
+     <x>125</x>
      <y>65</y>
      <width>113</width>
      <height>21</height>
@@ -140,7 +146,7 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>100</x>
+     <x>125</x>
      <y>95</y>
      <width>113</width>
      <height>21</height>
@@ -156,7 +162,7 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>100</x>
+     <x>125</x>
      <y>125</y>
      <width>371</width>
      <height>21</height>
@@ -175,7 +181,7 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>100</x>
+     <x>125</x>
      <y>155</y>
      <width>113</width>
      <height>21</height>
@@ -207,7 +213,7 @@
   <widget class="QPushButton" name="annulerButton">
    <property name="geometry">
     <rect>
-     <x>369</x>
+     <x>400</x>
      <y>200</y>
      <width>101</width>
      <height>31</height>
@@ -223,7 +229,7 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>250</x>
+     <x>280</x>
      <y>200</y>
      <width>101</width>
      <height>31</height>
@@ -241,12 +247,13 @@
     <rect>
      <x>10</x>
      <y>15</y>
-     <width>101</width>
+     <width>141</width>
      <height>16</height>
     </rect>
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -261,7 +268,7 @@
   <widget class="QLabel" name="labelNumeroCategorie">
    <property name="geometry">
     <rect>
-     <x>110</x>
+     <x>150</x>
      <y>15</y>
      <width>21</width>
      <height>16</height>
@@ -269,6 +276,7 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -283,7 +291,7 @@
   <widget class="QLabel" name="label_6">
    <property name="geometry">
     <rect>
-     <x>130</x>
+     <x>170</x>
      <y>15</y>
      <width>15</width>
      <height>16</height>
@@ -291,6 +299,7 @@
    </property>
    <property name="font">
     <font>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>

@@ -41,7 +41,9 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
+     <weight>75</weight>
+     <bold>true</bold>
     </font>
    </property>
    <property name="text">
@@ -72,7 +74,7 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -83,7 +85,7 @@
    <widget class="QLineEdit" name="lineEditRevenu">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>195</x>
       <y>20</y>
       <width>113</width>
       <height>21</height>
@@ -119,7 +121,7 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -138,6 +140,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -157,6 +160,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -176,6 +180,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -195,6 +200,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -214,6 +220,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -233,6 +240,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -252,6 +260,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -271,6 +280,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -290,6 +300,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -309,6 +320,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -328,6 +340,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -347,6 +360,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -366,6 +380,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -385,6 +400,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1190,6 +1206,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1290,6 +1307,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1333,6 +1351,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1427,6 +1446,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1446,6 +1466,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1570,6 +1591,7 @@
     </property>
     <property name="font">
      <font>
+      <family>Linux Libertine Mono</family>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -1605,8 +1627,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1627,8 +1650,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1649,8 +1673,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1671,8 +1696,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1693,8 +1719,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1715,8 +1742,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1737,8 +1765,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1759,8 +1788,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1781,8 +1811,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1803,8 +1834,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1825,8 +1857,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1847,8 +1880,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1869,8 +1903,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1891,8 +1926,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1913,8 +1949,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1935,8 +1972,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1957,8 +1995,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -1979,8 +2018,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -2001,8 +2041,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -2023,8 +2064,9 @@
     </property>
     <property name="font">
      <font>
-      <weight>50</weight>
-      <bold>false</bold>
+      <family>Linux Libertine Mono</family>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="text">
@@ -2046,7 +2088,7 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
      <weight>75</weight>
      <bold>true</bold>
     </font>
@@ -2059,13 +2101,14 @@
      <rect>
       <x>130</x>
       <y>30</y>
-      <width>126</width>
+      <width>141</width>
       <height>16</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>10</pointsize>
+      <family>Linux Libertine Mono</family>
+      <pointsize>11</pointsize>
       <weight>75</weight>
       <bold>true</bold>
      </font>
@@ -2110,7 +2153,7 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
     </font>
    </property>
    <property name="text">
@@ -2131,7 +2174,7 @@
    </property>
    <property name="font">
     <font>
-     <family>Sans Serif</family>
+     <family>Linux Libertine Mono</family>
     </font>
    </property>
    <property name="text">
